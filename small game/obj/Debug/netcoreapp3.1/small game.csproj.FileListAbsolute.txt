@@ -1,0 +1,13 @@
+/home/nenad/RiderProjects/FirstProject/small game/bin/Debug/netcoreapp3.1/small game
+/home/nenad/RiderProjects/FirstProject/small game/bin/Debug/netcoreapp3.1/small game.deps.json
+/home/nenad/RiderProjects/FirstProject/small game/bin/Debug/netcoreapp3.1/small game.runtimeconfig.json
+/home/nenad/RiderProjects/FirstProject/small game/bin/Debug/netcoreapp3.1/small game.runtimeconfig.dev.json
+/home/nenad/RiderProjects/FirstProject/small game/bin/Debug/netcoreapp3.1/small game.dll
+/home/nenad/RiderProjects/FirstProject/small game/bin/Debug/netcoreapp3.1/small game.pdb
+/home/nenad/RiderProjects/FirstProject/small game/obj/Debug/netcoreapp3.1/small game.csprojAssemblyReference.cache
+/home/nenad/RiderProjects/FirstProject/small game/obj/Debug/netcoreapp3.1/small game.AssemblyInfoInputs.cache
+/home/nenad/RiderProjects/FirstProject/small game/obj/Debug/netcoreapp3.1/small game.AssemblyInfo.cs
+/home/nenad/RiderProjects/FirstProject/small game/obj/Debug/netcoreapp3.1/small game.csproj.CoreCompileInputs.cache
+/home/nenad/RiderProjects/FirstProject/small game/obj/Debug/netcoreapp3.1/small game.dll
+/home/nenad/RiderProjects/FirstProject/small game/obj/Debug/netcoreapp3.1/small game.pdb
+/home/nenad/RiderProjects/FirstProject/small game/obj/Debug/netcoreapp3.1/small game.genruntimeconfig.cache
