@@ -4,40 +4,7 @@
     <projectFile>small game/small game.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faed1bb8-d523-4397-8f11-fc83cf0b68da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FirstProject/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FirstProject/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FirstProject/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FirstProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.FirstProject/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstProject.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/bin/Debug/netcoreapp3.1/small game" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/bin/Debug/netcoreapp3.1/small game.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/bin/Debug/netcoreapp3.1/small game.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/bin/Debug/netcoreapp3.1/small game.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/bin/Debug/netcoreapp3.1/small game.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/bin/Debug/netcoreapp3.1/small game.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/Debug/netcoreapp3.1/small game" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/Debug/netcoreapp3.1/small game.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/Debug/netcoreapp3.1/small game.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/Debug/netcoreapp3.1/small game.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/Debug/netcoreapp3.1/small game.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/Debug/netcoreapp3.1/small game.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/Debug/netcoreapp3.1/small game.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/Debug/netcoreapp3.1/small game.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/Debug/netcoreapp3.1/small game.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/Debug/netcoreapp3.1/small game.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/small game.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/small game.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/obj/small game.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/small game/small game.csproj" afterDir="false" />
-    </list>
+    <list default="true" id="faed1bb8-d523-4397-8f11-fc83cf0b68da" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +33,11 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "GitIgnore"
+    ]
   }
 }]]></component>
   <component name="RunManager">
@@ -98,8 +70,23 @@
       <updated>1657212437156</updated>
       <workItem from="1657212460554" duration="67000" />
       <workItem from="1657385582898" duration="55000" />
-      <workItem from="1657456071500" duration="2932000" />
+      <workItem from="1657456071500" duration="3325000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1657465941234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657465941235</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add .gitignore file">
+      <created>1657466115827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657466115827</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +98,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Initial commit: Rock, paper or scissors game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit: Rock, paper or scissors game" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="add .gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .gitignore file" />
   </component>
 </project>
